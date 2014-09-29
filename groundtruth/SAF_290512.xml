@@ -1,0 +1,557 @@
+<sync>
+  <recordings>
+    <recording name="SAF_290512_6_1338276381375" speed="0.999920569643" offset="0:00:00:00.0000000" />
+    <recording name="SAF_290512_7_1338285668880" speed="0.999920569643" offset="0:02:34:48.2734140" />
+    <recording name="SAF_290512_12_1338285676664" speed="0.999734295618" offset="0:02:34:53.4514714" />
+    <recording name="SAF_290512_7_1338285679846" speed="0.999920569643" offset="0:02:34:59.0182317" />
+    <recording name="SAF_290512_13_1338285755041" speed="0.999734295618" offset="0:02:36:14.6174275" />
+    <recording name="SAF_290512_10_1338285763026" speed="0.999920569643" offset="0:02:36:20.4010336" />
+    <recording name="SAF_290512_14_1338285825155" speed="0.999734295618" offset="0:02:37:04.8894707" />
+    <recording name="SAF_290512_0_1338285828656" speed="0.999920569643" offset="0:02:37:27.6759100" />
+    <recording name="SAF_290512_6_1338285836747" speed="0.999920569643" offset="0:02:37:35.4021434" />
+    <recording name="SAF_290512_12_1338286027521" speed="0.999734295618" offset="0:02:40:44.4735391" />
+    <recording name="SAF_290512_7_1338286215474" speed="0.999920569643" offset="0:02:43:54.8674140" />
+    <recording name="SAF_290512_14_1338286298506" speed="0.999734295618" offset="0:02:44:58.2986532" />
+    <recording name="SAF_290512_0_1338286500637" speed="0.999920569643" offset="0:02:48:39.7266541" />
+    <recording name="SAF_290512_10_1338286525628" speed="0.999920569643" offset="0:02:49:03.0546809" />
+    <recording name="SAF_290512_6_1338286540023" speed="0.999920569643" offset="0:02:49:18.6807063" />
+    <recording name="SAF_290512_12_1338286597748" speed="0.999734295618" offset="0:02:50:14.6621815" />
+    <recording name="SAF_290512_10_1338286753948" speed="0.999920569643" offset="0:02:52:51.3570149" />
+    <recording name="SAF_290512_0_1338286763549" speed="0.999920569643" offset="0:02:53:02.6185944" />
+    <recording name="SAF_290512_14_1338286812347" speed="0.999734295618" offset="0:02:53:32.0994179" />
+    <recording name="SAF_290512_7_1338286821247" speed="0.999920569643" offset="0:02:54:00.6575107" />
+    <recording name="SAF_290512_7_1338286869942" speed="0.999920569643" offset="0:02:54:49.3354140" />
+    <recording name="SAF_290512_7_1338287094178" speed="0.999920569643" offset="0:02:58:33.5714140" />
+    <recording name="SAF_290512_7_1338287235149" speed="0.999920569643" offset="0:03:00:54.5424140" />
+    <recording name="SAF_290512_7_1338287292400" speed="0.999920569643" offset="0:03:01:51.7934140" />
+    <recording name="SAF_290512_7_1338287534104" speed="0.999920569643" offset="0:03:05:53.4974140" />
+    <recording name="SAF_290512_7_1338287605012" speed="0.999920569643" offset="0:03:07:04.4054140" />
+    <recording name="SAF_290512_7_1338287658475" speed="0.999920569643" offset="0:03:07:57.8684140" />
+    <recording name="SAF_290512_12_1338287670849" speed="0.999734295618" offset="0:03:08:07.2235811" />
+    <recording name="SAF_290512_7_1338287720687" speed="0.999920569643" offset="0:03:09:00.0804140" />
+    <recording name="SAF_290512_7_1338287816549" speed="0.999920569643" offset="0:03:10:35.9424140" />
+    <recording name="SAF_290512_7_1338287865578" speed="0.999920569643" offset="0:03:11:24.9714140" />
+    <recording name="SAF_290512_7_1338287927234" speed="0.999920569643" offset="0:03:12:26.6274140" />
+    <recording name="SAF_290512_7_1338287960847" speed="0.999920569643" offset="0:03:13:00.2404140" />
+    <recording name="SAF_290512_10_1338287976869" speed="0.999920569643" offset="0:03:13:14.2160771" />
+    <recording name="SAF_290512_13_1338288003459" speed="0.999734295618" offset="0:03:13:43.0288930" />
+    <recording name="SAF_290512_7_1338288009544" speed="0.999920569643" offset="0:03:13:48.9374140" />
+    <recording name="SAF_290512_14_1338288030829" speed="0.999734295618" offset="0:03:13:50.6705679" />
+    <recording name="SAF_290512_7_1338288099470" speed="0.999920569643" offset="0:03:15:18.8634140" />
+    <recording name="SAF_290512_7_1338288193812" speed="0.999920569643" offset="0:03:16:53.2054140" />
+    <recording name="SAF_290512_7_1338288234568" speed="0.999920569643" offset="0:03:17:33.9614140" />
+    <recording name="SAF_290512_7_1338288285545" speed="0.999920569643" offset="0:03:18:24.9384140" />
+    <recording name="SAF_290512_7_1338288408324" speed="0.999920569643" offset="0:03:20:27.7174140" />
+    <recording name="SAF_290512_7_1338288468956" speed="0.999920569643" offset="0:03:21:28.3494140" />
+    <recording name="SAF_290512_7_1338288482689" speed="0.999920569643" offset="0:03:21:42.0824140" />
+    <recording name="SAF_290512_7_1338288549693" speed="0.999920569643" offset="0:03:22:49.0864140" />
+    <recording name="SAF_290512_7_1338288630824" speed="0.999920569643" offset="0:03:24:10.2174140" />
+    <recording name="SAF_290512_7_1338288794023" speed="0.999920569643" offset="0:03:26:53.4164140" />
+    <recording name="SAF_290512_7_1338288849422" speed="0.999920569643" offset="0:03:27:48.8154140" />
+    <recording name="SAF_290512_7_1338288911291" speed="0.999920569643" offset="0:03:28:50.6844140" />
+    <recording name="SAF_290512_7_1338288941857" speed="0.999920569643" offset="0:03:29:21.2504140" />
+    <recording name="SAF_290512_7_1338289745569" speed="0.999920569643" offset="0:03:42:44.9624140" />
+    <recording name="SAF_290512_7_1338289780785" speed="0.999920569643" offset="0:03:43:20.1784140" />
+    <recording name="SAF_290512_7_1338289830191" speed="0.999920569643" offset="0:03:44:09.5844140" />
+    <recording name="SAF_290512_10_1338290146396" speed="0.999920569643" offset="0:03:49:23.5374963" />
+    <recording name="SAF_290512_12_1338290148015" speed="0.999734295618" offset="0:03:49:24.4639868" />
+    <recording name="SAF_290512_13_1338290158604" speed="0.999734295618" offset="0:03:49:38.7278370" />
+    <recording name="SAF_290512_14_1338290189634" speed="0.999734295618" offset="0:03:49:49.2925126" />
+    <recording name="SAF_290512_0_1338290204231" speed="0.999920569643" offset="0:03:50:23.0600690" />
+    <recording name="SAF_290512_7_1338290232952" speed="0.999920569643" offset="0:03:50:52.3454140" />
+    <recording name="SAF_290512_12_1338290270060" speed="0.999734295618" offset="0:03:51:26.4843012" />
+    <recording name="SAF_290512_20_1338290460416" speed="1.000006240872" offset="0:03:51:32.9142072" />
+    <recording name="SAF_290512_14_1338290419216" speed="0.999734295618" offset="0:03:53:38.8072160" />
+    <recording name="SAF_290512_20_1338290586136" speed="1.000006240872" offset="0:03:53:40.0167253" />
+    <recording name="SAF_290512_0_1338290403983" speed="0.999920569643" offset="0:03:53:42.8291693" />
+    <recording name="SAF_290512_12_1338290406814" speed="0.999734295618" offset="0:03:53:43.2709128" />
+    <recording name="SAF_290512_10_1338290410592" speed="0.999920569643" offset="0:03:53:47.7517205" />
+    <recording name="SAF_290512_7_1338290413328" speed="0.999920569643" offset="0:03:53:52.7450459" />
+    <recording name="SAF_290512_7_1338290456458" speed="0.999920569643" offset="0:03:54:35.8948267" />
+    <recording name="SAF_290512_13_1338290492890" speed="0.999734295618" offset="0:03:55:13.0891415" />
+    <recording name="SAF_290512_13_1338290684441" speed="0.999734295618" offset="0:03:58:24.5885207" />
+    <recording name="SAF_290512_7_1338290721580" speed="0.999920569643" offset="0:03:59:00.9734140" />
+    <recording name="SAF_290512_14_1338290744836" speed="0.999734295618" offset="0:03:59:04.2829463" />
+    <recording name="SAF_290512_12_1338290735942" speed="0.999734295618" offset="0:03:59:12.3542049" />
+    <recording name="SAF_290512_13_1338290767181" speed="0.999734295618" offset="0:03:59:47.3747666" />
+    <recording name="SAF_290512_10_1338290789690" speed="0.999920569643" offset="0:04:00:06.8283080" />
+    <recording name="SAF_290512_20_1338291015304" speed="1.000006240872" offset="0:04:00:48.4166700" />
+    <recording name="SAF_290512_7_1338290833488" speed="0.999920569643" offset="0:04:00:52.8817834" />
+    <recording name="SAF_290512_0_1338290844284" speed="0.999920569643" offset="0:04:01:03.1383780" />
+    <recording name="SAF_290512_7_1338290915288" speed="0.999920569643" offset="0:04:02:14.6722935" />
+    <recording name="SAF_290512_13_1338290950751" speed="0.999734295618" offset="0:04:02:50.8469156" />
+    <recording name="SAF_290512_7_1338291039128" speed="0.999920569643" offset="0:04:04:18.5214140" />
+    <recording name="SAF_290512_10_1338291056844" speed="0.999920569643" offset="0:04:04:33.9975241" />
+    <recording name="SAF_290512_20_1338291241416" speed="1.000006240872" offset="0:04:04:34.0162388" />
+    <recording name="SAF_290512_14_1338291074546" speed="0.999734295618" offset="0:04:04:34.1137283" />
+    <recording name="SAF_290512_12_1338291068847" speed="0.999734295618" offset="0:04:04:45.2470605" />
+    <recording name="SAF_290512_0_1338291067070" speed="0.999920569643" offset="0:04:04:45.9073787" />
+    <recording name="SAF_290512_13_1338291067230" speed="0.999734295618" offset="0:04:04:47.3704159" />
+    <recording name="SAF_290512_7_1338291070688" speed="0.999920569643" offset="0:04:04:50.1285461" />
+    <recording name="SAF_290512_13_1338291251136" speed="0.999734295618" offset="0:04:07:51.2426246" />
+    <recording name="SAF_290512_14_1338291378171" speed="0.999734295618" offset="0:04:09:37.7206187" />
+    <recording name="SAF_290512_7_1338291365698" speed="0.999920569643" offset="0:04:09:45.1056804" />
+    <recording name="SAF_290512_20_1338291553296" speed="1.000006240872" offset="0:04:09:45.8514883" />
+    <recording name="SAF_290512_0_1338291373248" speed="0.999920569643" offset="0:04:09:52.1001360" />
+    <recording name="SAF_290512_10_1338291389922" speed="0.999920569643" offset="0:04:10:07.1004986" />
+    <recording name="SAF_290512_13_1338291435055" speed="0.999734295618" offset="0:04:10:55.1096999" />
+    <recording name="SAF_290512_14_1338291566633" speed="0.999734295618" offset="0:04:12:46.2024866" />
+    <recording name="SAF_290512_7_1338291547704" speed="0.999920569643" offset="0:04:12:47.0905504" />
+    <recording name="SAF_290512_12_1338291565810" speed="0.999734295618" offset="0:04:13:02.2389936" />
+    <recording name="SAF_290512_10_1338291574663" speed="0.999920569643" offset="0:04:13:11.8312241" />
+    <recording name="SAF_290512_13_1338291578656" speed="0.999734295618" offset="0:04:13:18.8090081" />
+    <recording name="SAF_290512_20_1338291782744" speed="1.000006240872" offset="0:04:13:34.6157603" />
+    <recording name="SAF_290512_7_1338291695266" speed="0.999920569643" offset="0:04:15:14.6598028" />
+    <recording name="SAF_290512_7_1338291725363" speed="0.999920569643" offset="0:04:15:44.7362741" />
+    <recording name="SAF_290512_7_1338291775636" speed="0.999920569643" offset="0:04:16:35.0540472" />
+    <recording name="SAF_290512_14_1338291795516" speed="0.999734295618" offset="0:04:16:35.0624254" />
+    <recording name="SAF_290512_13_1338291781898" speed="0.999734295618" offset="0:04:16:42.0833635" />
+    <recording name="SAF_290512_10_1338291787965" speed="0.999920569643" offset="0:04:16:45.1062682" />
+    <recording name="SAF_290512_20_1338291985851" speed="1.000006240872" offset="0:04:16:58.6953490" />
+    <recording name="SAF_290512_12_1338291832025" speed="0.999734295618" offset="0:04:17:28.0976344" />
+    <recording name="SAF_290512_7_1338292075649" speed="0.999920569643" offset="0:04:21:35.0424140" />
+    <recording name="SAF_290512_7_1338292112228" speed="0.999920569643" offset="0:04:22:11.6214140" />
+    <recording name="SAF_290512_14_1338292608049" speed="0.999734295618" offset="0:04:30:07.5689899" />
+    <recording name="SAF_290512_10_1338292596396" speed="0.999920569643" offset="0:04:30:14.0075622" />
+    <recording name="SAF_290512_12_1338292599810" speed="0.999734295618" offset="0:04:30:16.9449426" />
+    <recording name="SAF_290512_0_1338292601130" speed="0.999920569643" offset="0:04:30:20.5069983" />
+    <recording name="SAF_290512_20_1338292798008" speed="1.000006240872" offset="0:04:30:32.4787276" />
+    <recording name="SAF_290512_13_1338292623418" speed="0.999734295618" offset="0:04:30:43.7973077" />
+    <recording name="SAF_290512_7_1338292749421" speed="0.999920569643" offset="0:04:32:48.8144140" />
+    <recording name="SAF_290512_12_1338292753522" speed="0.999734295618" offset="0:04:32:50.1998114" />
+    <recording name="SAF_290512_7_1338292763997" speed="0.999920569643" offset="0:04:33:03.3770092" />
+    <recording name="SAF_290512_20_1338292954072" speed="1.000006240872" offset="0:04:33:07.1952909" />
+    <recording name="SAF_290512_10_1338292778236" speed="0.999920569643" offset="0:04:33:15.3160522" />
+    <recording name="SAF_290512_0_1338292801038" speed="0.999920569643" offset="0:04:33:39.8602626" />
+    <recording name="SAF_290512_14_1338292820485" speed="0.999734295618" offset="0:04:33:39.9403260" />
+    <recording name="SAF_290512_12_1338292928248" speed="0.999734295618" offset="0:04:35:44.9591383" />
+    <recording name="SAF_290512_0_1338293368917" speed="0.999920569643" offset="0:04:43:07.7727354" />
+    <recording name="SAF_290512_12_1338293417766" speed="0.999734295618" offset="0:04:43:54.4145336" />
+    <recording name="SAF_290512_20_1338293810707" speed="1.000006240872" offset="0:04:47:23.1594714" />
+    <recording name="SAF_290512_10_1338293633603" speed="0.999920569643" offset="0:04:47:30.6946998" />
+    <recording name="SAF_290512_14_1338293652960" speed="0.999734295618" offset="0:04:47:32.3560435" />
+    <recording name="SAF_290512_0_1338293663939" speed="0.999920569643" offset="0:04:48:02.8114100" />
+    <recording name="SAF_290512_14_1338293949839" speed="0.999734295618" offset="0:04:52:29.1516041" />
+    <recording name="SAF_290512_10_1338293934578" speed="0.999920569643" offset="0:04:52:31.6686667" />
+    <recording name="SAF_290512_20_1338294123256" speed="1.000006240872" offset="0:04:52:35.9961083" />
+    <recording name="SAF_290512_7_1338293938215" speed="0.999920569643" offset="0:04:52:37.6084140" />
+    <recording name="SAF_290512_0_1338293981293" speed="0.999920569643" offset="0:04:53:20.1952585" />
+    <recording name="SAF_290512_10_1338294207394" speed="0.999920569643" offset="0:04:57:04.4821331" />
+    <recording name="SAF_290512_14_1338294236496" speed="0.999734295618" offset="0:04:57:15.7916064" />
+    <recording name="SAF_290512_0_1338294270709" speed="0.999920569643" offset="0:04:58:09.8519025" />
+    <recording name="SAF_290512_10_1338294461083" speed="0.999920569643" offset="0:05:01:18.0832988" />
+    <recording name="SAF_290512_14_1338294491620" speed="0.999734295618" offset="0:05:01:31.1655596" />
+    <recording name="SAF_290512_10_1338294501470" speed="0.999920569643" offset="0:05:01:58.4887311" />
+    <recording name="SAF_290512_7_1338294586345" speed="0.999920569643" offset="0:05:03:25.6927306" />
+  </recordings>
+  <syncpoints>
+    <syncpoint>
+      <recording1 name="SAF_290512_7_1338285668880" time="0:00:00:06.1249750" />
+      <recording2 name="SAF_290512_12_1338285676664" time="0:00:00:00.9469176" />
+    </syncpoint>
+    <syncpoint>
+      <recording1 name="SAF_290512_12_1338285676664" time="0:00:00:08.0777200" />
+      <recording2 name="SAF_290512_7_1338285679846" time="0:00:00:02.5109597" />
+    </syncpoint>
+    <syncpoint>
+      <recording1 name="SAF_290512_13_1338285755041" time="0:00:00:33.4549187" />
+      <recording2 name="SAF_290512_10_1338285763026" time="0:00:00:27.6713126" />
+    </syncpoint>
+    <syncpoint>
+      <recording1 name="SAF_290512_10_1338285763026" time="0:00:00:59.2980535" />
+      <recording2 name="SAF_290512_14_1338285825155" time="0:00:00:14.8096164" />
+    </syncpoint>
+    <syncpoint>
+      <recording1 name="SAF_290512_14_1338285825155" time="0:00:00:58.3729421" />
+      <recording2 name="SAF_290512_0_1338285828656" time="0:00:00:35.5865028" />
+    </syncpoint>
+    <syncpoint>
+      <recording1 name="SAF_290512_0_1338285828656" time="0:00:00:35.6002494" />
+      <recording2 name="SAF_290512_6_1338285836747" time="0:00:00:27.8740160" />
+    </syncpoint>
+    <syncpoint>
+      <recording1 name="SAF_290512_6_1338285836747" time="0:00:03:13.3922472" />
+      <recording2 name="SAF_290512_12_1338286027521" time="0:00:00:04.3208515" />
+    </syncpoint>
+    <syncpoint>
+      <recording1 name="SAF_290512_6_1338285836747" time="0:00:06:29.9541875" />
+      <recording2 name="SAF_290512_7_1338286215474" time="0:00:00:10.4889169" />
+    </syncpoint>
+    <syncpoint>
+      <recording1 name="SAF_290512_6_1338285836747" time="0:00:07:52.6213178" />
+      <recording2 name="SAF_290512_14_1338286298506" time="0:00:00:29.7248080" />
+    </syncpoint>
+    <syncpoint>
+      <recording1 name="SAF_290512_14_1338286298506" time="0:00:04:00.6309928" />
+      <recording2 name="SAF_290512_0_1338286500637" time="0:00:00:19.2029919" />
+    </syncpoint>
+    <syncpoint>
+      <recording1 name="SAF_290512_0_1338286500637" time="0:00:00:25.1293282" />
+      <recording2 name="SAF_290512_10_1338286525628" time="0:00:00:01.8013014" />
+    </syncpoint>
+    <syncpoint>
+      <recording1 name="SAF_290512_10_1338286525628" time="0:00:00:28.0206334" />
+      <recording2 name="SAF_290512_6_1338286540023" time="0:00:00:12.3946080" />
+    </syncpoint>
+    <syncpoint>
+      <recording1 name="SAF_290512_6_1338286540023" time="0:00:02:06.0673591" />
+      <recording2 name="SAF_290512_12_1338286597748" time="0:00:01:10.0858839" />
+    </syncpoint>
+    <syncpoint>
+      <recording1 name="SAF_290512_6_1338286540023" time="0:00:04:14.6488355" />
+      <recording2 name="SAF_290512_10_1338286753948" time="0:00:00:41.9725269" />
+    </syncpoint>
+    <syncpoint>
+      <recording1 name="SAF_290512_10_1338286753948" time="0:00:00:49.7638769" />
+      <recording2 name="SAF_290512_0_1338286763549" time="0:00:00:38.5022974" />
+    </syncpoint>
+    <syncpoint>
+      <recording1 name="SAF_290512_0_1338286763549" time="0:00:00:40.9164218" />
+      <recording2 name="SAF_290512_14_1338286812347" time="0:00:00:11.4355983" />
+    </syncpoint>
+    <syncpoint>
+      <recording1 name="SAF_290512_14_1338286812347" time="0:00:00:36.8091705" />
+      <recording2 name="SAF_290512_7_1338286821247" time="0:00:00:08.2510777" />
+    </syncpoint>
+    <syncpoint>
+      <recording1 name="SAF_290512_7_1338287658475" time="0:00:00:12.7738758" />
+      <recording2 name="SAF_290512_12_1338287670849" time="0:00:00:03.4187087" />
+    </syncpoint>
+    <syncpoint>
+      <recording1 name="SAF_290512_10_1338287976869" time="0:00:01:32.3197784" />
+      <recording2 name="SAF_290512_13_1338288003459" time="0:00:01:03.5069625" />
+    </syncpoint>
+    <syncpoint>
+      <recording1 name="SAF_290512_13_1338288003459" time="0:00:01:03.5070582" />
+      <recording2 name="SAF_290512_7_1338288009544" time="0:00:00:57.5985372" />
+    </syncpoint>
+    <syncpoint>
+      <recording1 name="SAF_290512_7_1338288009544" time="0:00:00:57.5987576" />
+      <recording2 name="SAF_290512_14_1338288030829" time="0:00:00:55.8656037" />
+    </syncpoint>
+    <syncpoint>
+      <recording1 name="SAF_290512_10_1338290146396" time="0:00:01:05.6685160" />
+      <recording2 name="SAF_290512_12_1338290148015" time="0:00:01:04.7420255" />
+    </syncpoint>
+    <syncpoint>
+      <recording1 name="SAF_290512_12_1338290148015" time="0:00:01:37.6582013" />
+      <recording2 name="SAF_290512_13_1338290158604" time="0:00:01:23.3943511" />
+    </syncpoint>
+    <syncpoint>
+      <recording1 name="SAF_290512_13_1338290158604" time="0:00:00:54.2063530" />
+      <recording2 name="SAF_290512_14_1338290189634" time="0:00:00:43.6416774" />
+    </syncpoint>
+    <syncpoint>
+      <recording1 name="SAF_290512_14_1338290189634" time="0:00:02:21.1448058" />
+      <recording2 name="SAF_290512_0_1338290204231" time="0:00:01:47.3772494" />
+    </syncpoint>
+    <syncpoint>
+      <recording1 name="SAF_290512_0_1338290204231" time="0:00:00:37.4880941" />
+      <recording2 name="SAF_290512_7_1338290232952" time="0:00:00:08.2027491" />
+    </syncpoint>
+    <syncpoint>
+      <recording1 name="SAF_290512_7_1338290232952" time="0:00:00:37.6688413" />
+      <recording2 name="SAF_290512_12_1338290270060" time="0:00:00:03.5299541" />
+    </syncpoint>
+    <syncpoint>
+      <recording1 name="SAF_290512_12_1338290270060" time="0:00:00:20.3616525" />
+      <recording2 name="SAF_290512_20_1338290460416" time="0:00:00:13.9317465" />
+    </syncpoint>
+    <syncpoint>
+      <recording1 name="SAF_290512_13_1338290158604" time="0:00:04:32.5323675" />
+      <recording2 name="SAF_290512_0_1338290403983" time="0:00:00:28.4310352" />
+    </syncpoint>
+    <syncpoint>
+      <recording1 name="SAF_290512_0_1338290403983" time="0:00:00:28.4053384" />
+      <recording2 name="SAF_290512_12_1338290406814" time="0:00:00:27.9635949" />
+    </syncpoint>
+    <syncpoint>
+      <recording1 name="SAF_290512_12_1338290406814" time="0:00:02:00.6989360" />
+      <recording2 name="SAF_290512_10_1338290410592" time="0:00:01:56.2181283" />
+    </syncpoint>
+    <syncpoint>
+      <recording1 name="SAF_290512_10_1338290410592" time="0:00:00:23.5056178" />
+      <recording2 name="SAF_290512_7_1338290413328" time="0:00:00:18.5122924" />
+    </syncpoint>
+    <syncpoint>
+      <recording1 name="SAF_290512_7_1338290413328" time="0:00:00:18.9322666" />
+      <recording2 name="SAF_290512_14_1338290419216" time="0:00:00:32.8700965" />
+    </syncpoint>
+    <syncpoint>
+      <recording1 name="SAF_290512_14_1338290419216" time="0:00:00:04.9957430" />
+      <recording2 name="SAF_290512_20_1338290586136" time="0:00:00:03.7862337" />
+    </syncpoint>
+    <syncpoint>
+      <recording1 name="SAF_290512_14_1338290419216" time="0:00:01:05.8075423" />
+      <recording2 name="SAF_290512_7_1338290456458" time="0:00:00:08.7199316" />
+    </syncpoint>
+    <syncpoint>
+      <recording1 name="SAF_290512_7_1338290456458" time="0:00:01:37.1002171" />
+      <recording2 name="SAF_290512_13_1338290492890" time="0:00:00:59.9059023" />
+    </syncpoint>
+    <syncpoint>
+      <recording1 name="SAF_290512_7_1338290721580" time="0:00:00:21.4926813" />
+      <recording2 name="SAF_290512_12_1338290735942" time="0:00:00:10.1118904" />
+    </syncpoint>
+    <syncpoint>
+      <recording1 name="SAF_290512_12_1338290735942" time="0:00:00:03.8512479" />
+      <recording2 name="SAF_290512_14_1338290744836" time="0:00:00:11.9225065" />
+    </syncpoint>
+    <syncpoint>
+      <recording1 name="SAF_290512_14_1338290744836" time="0:00:01:11.5383919" />
+      <recording2 name="SAF_290512_13_1338290767181" time="0:00:00:28.4465716" />
+    </syncpoint>
+    <syncpoint>
+      <recording1 name="SAF_290512_13_1338290767181" time="0:00:00:21.4733529" />
+      <recording2 name="SAF_290512_10_1338290789690" time="0:00:00:02.0198115" />
+    </syncpoint>
+    <syncpoint>
+      <recording1 name="SAF_290512_10_1338290789690" time="0:00:01:05.5003322" />
+      <recording2 name="SAF_290512_20_1338291015304" time="0:00:00:23.9119702" />
+    </syncpoint>
+    <syncpoint>
+      <recording1 name="SAF_290512_10_1338290789690" time="0:00:00:50.3912110" />
+      <recording2 name="SAF_290512_7_1338290833488" time="0:00:00:04.3377356" />
+    </syncpoint>
+    <syncpoint>
+      <recording1 name="SAF_290512_7_1338290833488" time="0:00:00:20.6654113" />
+      <recording2 name="SAF_290512_0_1338290844284" time="0:00:00:10.4088167" />
+    </syncpoint>
+    <syncpoint>
+      <recording1 name="SAF_290512_0_1338290844284" time="0:00:02:22.1611003" />
+      <recording2 name="SAF_290512_7_1338290915288" time="0:00:01:10.6271848" />
+    </syncpoint>
+    <syncpoint>
+      <recording1 name="SAF_290512_7_1338290915288" time="0:00:00:44.3794798" />
+      <recording2 name="SAF_290512_13_1338290950751" time="0:00:00:08.2048577" />
+    </syncpoint>
+    <syncpoint>
+      <recording1 name="SAF_290512_7_1338291039128" time="0:00:00:18.9735451" />
+      <recording2 name="SAF_290512_10_1338291056844" time="0:00:00:03.4974350" />
+    </syncpoint>
+    <syncpoint>
+      <recording1 name="SAF_290512_10_1338291056844" time="0:00:00:20.1758502" />
+      <recording2 name="SAF_290512_0_1338291067070" time="0:00:00:08.2659956" />
+    </syncpoint>
+    <syncpoint>
+      <recording1 name="SAF_290512_0_1338291067070" time="0:00:00:08.2645956" />
+      <recording2 name="SAF_290512_13_1338291067230" time="0:00:00:06.8015584" />
+    </syncpoint>
+    <syncpoint>
+      <recording1 name="SAF_290512_13_1338291067230" time="0:00:00:06.7955422" />
+      <recording2 name="SAF_290512_12_1338291068847" time="0:00:00:08.9188976" />
+    </syncpoint>
+    <syncpoint>
+      <recording1 name="SAF_290512_12_1338291068847" time="0:00:00:37.2837250" />
+      <recording2 name="SAF_290512_7_1338291070688" time="0:00:00:32.4022394" />
+    </syncpoint>
+    <syncpoint>
+      <recording1 name="SAF_290512_7_1338291070688" time="0:00:00:00.2517273" />
+      <recording2 name="SAF_290512_14_1338291074546" time="0:00:00:16.2665451" />
+    </syncpoint>
+    <syncpoint>
+      <recording1 name="SAF_290512_14_1338291074546" time="0:00:00:08.8250719" />
+      <recording2 name="SAF_290512_20_1338291241416" time="0:00:00:08.9225614" />
+    </syncpoint>
+    <syncpoint>
+      <recording1 name="SAF_290512_0_1338291067070" time="0:00:03:24.7302685" />
+      <recording2 name="SAF_290512_13_1338291251136" time="0:00:00:19.3950226" />
+    </syncpoint>
+    <syncpoint>
+      <recording1 name="SAF_290512_13_1338291251136" time="0:00:01:47.4988672" />
+      <recording2 name="SAF_290512_14_1338291378171" time="0:00:00:01.0208731" />
+    </syncpoint>
+    <syncpoint>
+      <recording1 name="SAF_290512_14_1338291378171" time="0:00:00:08.4431535" />
+      <recording2 name="SAF_290512_7_1338291365698" time="0:00:00:01.0580918" />
+    </syncpoint>
+    <syncpoint>
+      <recording1 name="SAF_290512_7_1338291365698" time="0:00:00:41.8005583" />
+      <recording2 name="SAF_290512_20_1338291553296" time="0:00:00:41.0547504" />
+    </syncpoint>
+    <syncpoint>
+      <recording1 name="SAF_290512_20_1338291553296" time="0:00:00:41.0558635" />
+      <recording2 name="SAF_290512_0_1338291373248" time="0:00:00:34.8072158" />
+    </syncpoint>
+    <syncpoint>
+      <recording1 name="SAF_290512_0_1338291373248" time="0:00:00:34.8072363" />
+      <recording2 name="SAF_290512_10_1338291389922" time="0:00:00:19.8068737" />
+    </syncpoint>
+    <syncpoint>
+      <recording1 name="SAF_290512_10_1338291389922" time="0:00:01:09.9012919" />
+      <recording2 name="SAF_290512_13_1338291435055" time="0:00:00:21.8920906" />
+    </syncpoint>
+    <syncpoint>
+      <recording1 name="SAF_290512_0_1338291373248" time="0:00:03:03.1859869" />
+      <recording2 name="SAF_290512_14_1338291566633" time="0:00:00:09.0836363" />
+    </syncpoint>
+    <syncpoint>
+      <recording1 name="SAF_290512_14_1338291566633" time="0:00:00:09.0836790" />
+      <recording2 name="SAF_290512_7_1338291547704" time="0:00:00:08.1956152" />
+    </syncpoint>
+    <syncpoint>
+      <recording1 name="SAF_290512_7_1338291547704" time="0:00:00:17.6794560" />
+      <recording2 name="SAF_290512_12_1338291565810" time="0:00:00:02.5310128" />
+    </syncpoint>
+    <syncpoint>
+      <recording1 name="SAF_290512_12_1338291565810" time="0:00:00:13.6522920" />
+      <recording2 name="SAF_290512_10_1338291574663" time="0:00:00:04.0600615" />
+    </syncpoint>
+    <syncpoint>
+      <recording1 name="SAF_290512_10_1338291574663" time="0:00:00:17.0265919" />
+      <recording2 name="SAF_290512_13_1338291578656" time="0:00:00:10.0488079" />
+    </syncpoint>
+    <syncpoint>
+      <recording1 name="SAF_290512_13_1338291578656" time="0:00:00:16.9168304" />
+      <recording2 name="SAF_290512_20_1338291782744" time="0:00:00:01.1100782" />
+    </syncpoint>
+    <syncpoint>
+      <recording1 name="SAF_290512_14_1338291566633" time="0:00:02:28.8290762" />
+      <recording2 name="SAF_290512_7_1338291695266" time="0:00:00:00.3717600" />
+    </syncpoint>
+    <syncpoint>
+      <recording1 name="SAF_290512_0_1338291373248" time="0:00:05:55.8933924" />
+      <recording2 name="SAF_290512_7_1338291725363" time="0:00:00:03.2572543" />
+    </syncpoint>
+    <syncpoint>
+      <recording1 name="SAF_290512_0_1338291373248" time="0:00:07:05.1359417" />
+      <recording2 name="SAF_290512_7_1338291775636" time="0:00:00:22.1820305" />
+    </syncpoint>
+    <syncpoint>
+      <recording1 name="SAF_290512_7_1338291775636" time="0:00:00:09.6844537" />
+      <recording2 name="SAF_290512_14_1338291795516" time="0:00:00:09.6760755" />
+    </syncpoint>
+    <syncpoint>
+      <recording1 name="SAF_290512_14_1338291795516" time="0:00:00:09.8323215" />
+      <recording2 name="SAF_290512_13_1338291781898" time="0:00:00:02.8113834" />
+    </syncpoint>
+    <syncpoint>
+      <recording1 name="SAF_290512_13_1338291781898" time="0:00:00:05.5716496" />
+      <recording2 name="SAF_290512_10_1338291787965" time="0:00:00:02.5487449" />
+    </syncpoint>
+    <syncpoint>
+      <recording1 name="SAF_290512_10_1338291787965" time="0:00:00:21.5628599" />
+      <recording2 name="SAF_290512_20_1338291985851" time="0:00:00:07.9737791" />
+    </syncpoint>
+    <syncpoint>
+      <recording1 name="SAF_290512_20_1338291985851" time="0:00:01:02.8477804" />
+      <recording2 name="SAF_290512_12_1338291832025" time="0:00:00:33.4454950" />
+    </syncpoint>
+    <syncpoint>
+      <recording1 name="SAF_290512_14_1338292608049" time="0:00:00:13.2435587" />
+      <recording2 name="SAF_290512_10_1338292596396" time="0:00:00:06.8049864" />
+    </syncpoint>
+    <syncpoint>
+      <recording1 name="SAF_290512_10_1338292596396" time="0:00:00:06.8049448" />
+      <recording2 name="SAF_290512_12_1338292599810" time="0:00:00:03.8675644" />
+    </syncpoint>
+    <syncpoint>
+      <recording1 name="SAF_290512_12_1338292599810" time="0:00:00:42.8685648" />
+      <recording2 name="SAF_290512_0_1338292601130" time="0:00:00:39.3065091" />
+    </syncpoint>
+    <syncpoint>
+      <recording1 name="SAF_290512_0_1338292601130" time="0:00:00:32.6797771" />
+      <recording2 name="SAF_290512_20_1338292798008" time="0:00:00:20.7080478" />
+    </syncpoint>
+    <syncpoint>
+      <recording1 name="SAF_290512_20_1338292798008" time="0:00:00:27.3346110" />
+      <recording2 name="SAF_290512_13_1338292623418" time="0:00:00:16.0160309" />
+    </syncpoint>
+    <syncpoint>
+      <recording1 name="SAF_290512_7_1338292749421" time="0:00:00:02.8189146" />
+      <recording2 name="SAF_290512_12_1338292753522" time="0:00:00:01.4335172" />
+    </syncpoint>
+    <syncpoint>
+      <recording1 name="SAF_290512_12_1338292753522" time="0:00:00:15.8068947" />
+      <recording2 name="SAF_290512_7_1338292763997" time="0:00:00:02.6296969" />
+    </syncpoint>
+    <syncpoint>
+      <recording1 name="SAF_290512_7_1338292763997" time="0:00:00:14.7152855" />
+      <recording2 name="SAF_290512_20_1338292954072" time="0:00:00:10.8970038" />
+    </syncpoint>
+    <syncpoint>
+      <recording1 name="SAF_290512_20_1338292954072" time="0:00:00:10.8966242" />
+      <recording2 name="SAF_290512_10_1338292778236" time="0:00:00:02.7758629" />
+    </syncpoint>
+    <syncpoint>
+      <recording1 name="SAF_290512_10_1338292778236" time="0:00:00:51.2617384" />
+      <recording2 name="SAF_290512_0_1338292801038" time="0:00:00:26.7175280" />
+    </syncpoint>
+    <syncpoint>
+      <recording1 name="SAF_290512_0_1338292801038" time="0:00:00:25.8235413" />
+      <recording2 name="SAF_290512_14_1338292820485" time="0:00:00:25.7434779" />
+    </syncpoint>
+    <syncpoint>
+      <recording1 name="SAF_290512_14_1338292820485" time="0:00:02:34.9380309" />
+      <recording2 name="SAF_290512_12_1338292928248" time="0:00:00:29.9192186" />
+    </syncpoint>
+    <syncpoint>
+      <recording1 name="SAF_290512_14_1338292820485" time="0:00:09:58.4612184" />
+      <recording2 name="SAF_290512_0_1338293368917" time="0:00:00:30.6288090" />
+    </syncpoint>
+    <syncpoint>
+      <recording1 name="SAF_290512_0_1338293368917" time="0:00:00:54.4140066" />
+      <recording2 name="SAF_290512_12_1338293417766" time="0:00:00:07.7722084" />
+    </syncpoint>
+    <syncpoint>
+      <recording1 name="SAF_290512_7_1338292763997" time="0:00:14:54.3732799" />
+      <recording2 name="SAF_290512_20_1338293810707" time="0:00:00:34.5908177" />
+    </syncpoint>
+    <syncpoint>
+      <recording1 name="SAF_290512_20_1338293810707" time="0:00:00:29.6635714" />
+      <recording2 name="SAF_290512_10_1338293633603" time="0:00:00:22.1283430" />
+    </syncpoint>
+    <syncpoint>
+      <recording1 name="SAF_290512_10_1338293633603" time="0:00:00:27.0634916" />
+      <recording2 name="SAF_290512_14_1338293652960" time="0:00:00:25.4021479" />
+    </syncpoint>
+    <syncpoint>
+      <recording1 name="SAF_290512_14_1338293652960" time="0:00:00:36.2572277" />
+      <recording2 name="SAF_290512_0_1338293663939" time="0:00:00:05.8018612" />
+    </syncpoint>
+    <syncpoint>
+      <recording1 name="SAF_290512_14_1338293949839" time="0:00:00:16.5874657" />
+      <recording2 name="SAF_290512_10_1338293934578" time="0:00:00:14.0704031" />
+    </syncpoint>
+    <syncpoint>
+      <recording1 name="SAF_290512_10_1338293934578" time="0:00:02:56.9386252" />
+      <recording2 name="SAF_290512_20_1338294123256" time="0:00:02:52.6111836" />
+    </syncpoint>
+    <syncpoint>
+      <recording1 name="SAF_290512_20_1338294123256" time="0:00:00:54.9870502" />
+      <recording2 name="SAF_290512_0_1338293981293" time="0:00:00:10.7879000" />
+    </syncpoint>
+    <syncpoint>
+      <recording1 name="SAF_290512_20_1338294123256" time="0:00:05:46.1062676" />
+      <recording2 name="SAF_290512_10_1338294207394" time="0:00:01:17.6202428" />
+    </syncpoint>
+    <syncpoint>
+      <recording1 name="SAF_290512_10_1338294207394" time="0:00:00:15.8262801" />
+      <recording2 name="SAF_290512_14_1338294236496" time="0:00:00:04.5168068" />
+    </syncpoint>
+    <syncpoint>
+      <recording1 name="SAF_290512_14_1338294236496" time="0:00:00:54.8127887" />
+      <recording2 name="SAF_290512_0_1338294270709" time="0:00:00:00.7671535" />
+    </syncpoint>
+    <syncpoint>
+      <recording1 name="SAF_290512_20_1338294123256" time="0:00:08:59.9526581" />
+      <recording2 name="SAF_290512_10_1338294461083" time="0:00:00:17.8654676" />
+    </syncpoint>
+    <syncpoint>
+      <recording1 name="SAF_290512_10_1338294461083" time="0:00:00:17.8622007" />
+      <recording2 name="SAF_290512_14_1338294491620" time="0:00:00:04.7799399" />
+    </syncpoint>
+    <syncpoint>
+      <recording1 name="SAF_290512_14_1338294491620" time="0:00:00:44.8339947" />
+      <recording2 name="SAF_290512_10_1338294501470" time="0:00:00:17.5254841" />
+    </syncpoint>
+    <syncpoint>
+      <recording1 name="SAF_290512_10_1338294501470" time="0:00:01:27.9298791" />
+      <recording2 name="SAF_290512_7_1338294586345" time="0:00:00:00.7210907" />
+    </syncpoint>
+    <syncpoint>
+      <recording1 name="SAF_290512_10_1338293934578" time="0:00:00:06.7171959" />
+      <recording2 name="SAF_290512_7_1338293938215" time="0:00:00:00.7774486" />
+    </syncpoint>
+  </syncpoints>
+</sync>

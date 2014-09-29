@@ -1,0 +1,537 @@
+<sync>
+  <recordings>
+    <recording name="NAF_230312_16_1332505792408" speed="1.000006240872" offset="0:00:00:00.0000000" />
+    <recording name="NAF_230312_11_1332505816515" speed="0.999734295618" offset="0:00:00:29.2018728" />
+    <recording name="NAF_230312_10_1332505854683" speed="0.999920569643" offset="0:00:01:07.8387774" />
+    <recording name="NAF_230312_9_1332505856435" speed="0.999920569643" offset="0:00:01:12.1104637" />
+    <recording name="NAF_230312_16_1332505879176" speed="1.000006240872" offset="0:00:01:27.0340357" />
+    <recording name="NAF_230312_6_1332505879004" speed="0.999920569643" offset="0:00:01:34.4466063" />
+    <recording name="NAF_230312_10_1332505894403" speed="0.999920569643" offset="0:00:01:47.4722365" />
+    <recording name="NAF_230312_9_1332505892491" speed="0.999920569643" offset="0:00:01:48.1337741" />
+    <recording name="NAF_230312_3_1332505906963" speed="0.999734295618" offset="0:00:02:01.9082974" />
+    <recording name="NAF_230312_12_946808386716" speed="0.999734295618" offset="0:00:02:26.5483207" />
+    <recording name="NAF_230312_11_1332505940334" speed="0.999734295618" offset="0:00:02:32.8076761" />
+    <recording name="NAF_230312_3_1332505947118" speed="0.999734295618" offset="0:00:02:42.1047260" />
+    <recording name="NAF_230312_15_1332505947217" speed="1.000006240872" offset="0:00:02:42.6774206" />
+    <recording name="NAF_230312_13_947318308267" speed="0.999734295618" offset="0:00:02:43.0141486" />
+    <recording name="NAF_230312_14_1332505950982" speed="0.999734295618" offset="0:00:02:45.4143689" />
+    <recording name="NAF_230312_0_1332505955422" speed="0.999920569643" offset="0:00:02:50.5592433" />
+    <recording name="NAF_230312_7_1332505975052" speed="0.999920569643" offset="0:00:03:08.8690157" />
+    <recording name="NAF_230312_9_1332506014858" speed="0.999920569643" offset="0:00:03:50.6139375" />
+    <recording name="NAF_230312_14_1332506025105" speed="0.999734295618" offset="0:00:03:59.3637757" />
+    <recording name="NAF_230312_8_1332506033975" speed="0.999920569643" offset="0:00:04:10.5964530" />
+    <recording name="NAF_230312_16_1332506083704" speed="1.000006240872" offset="0:00:04:51.3563472" />
+    <recording name="NAF_230312_16_1332506144978" speed="1.000006240872" offset="0:00:05:52.6105403" />
+    <recording name="NAF_230312_10_1332506203752" speed="0.999920569643" offset="0:00:06:56.8448984" />
+    <recording name="NAF_230312_15_1332506225008" speed="1.000006240872" offset="0:00:07:20.9750285" />
+    <recording name="NAF_230312_10_1332506232951" speed="0.999920569643" offset="0:00:07:26.0022703" />
+    <recording name="NAF_230312_13_947318597426" speed="0.999734295618" offset="0:00:07:31.9951018" />
+    <recording name="NAF_230312_14_1332506238497" speed="0.999734295618" offset="0:00:07:32.7131322" />
+    <recording name="NAF_230312_3_1332506248656" speed="0.999734295618" offset="0:00:07:43.6364710" />
+    <recording name="NAF_230312_16_1332506324792" speed="1.000006240872" offset="0:00:08:52.2070048" />
+    <recording name="NAF_230312_11_1332506402587" speed="0.999734295618" offset="0:00:10:15.0015272" />
+    <recording name="NAF_230312_11_1332506448059" speed="0.999734295618" offset="0:00:11:00.5400191" />
+    <recording name="NAF_230312_15_1332506447560" speed="1.000006240872" offset="0:00:11:03.2896231" />
+    <recording name="NAF_230312_14_1332506450107" speed="0.999734295618" offset="0:00:11:04.3885496" />
+    <recording name="NAF_230312_8_1332506450210" speed="0.999920569643" offset="0:00:11:06.8252108" />
+    <recording name="NAF_230312_13_947318819931" speed="0.999734295618" offset="0:00:11:14.0869824" />
+    <recording name="NAF_230312_3_1332506462412" speed="0.999734295618" offset="0:00:11:17.3465401" />
+    <recording name="NAF_230312_16_1332506490488" speed="1.000006240872" offset="0:00:11:37.5060250" />
+    <recording name="NAF_230312_9_1332506488450" speed="0.999920569643" offset="0:00:11:44.1065858" />
+    <recording name="NAF_230312_11_1332506551394" speed="0.999734295618" offset="0:00:12:43.9012302" />
+    <recording name="NAF_230312_15_1332506548808" speed="1.000006240872" offset="0:00:12:44.7120704" />
+    <recording name="NAF_230312_13_947318911838" speed="0.999734295618" offset="0:00:12:46.0815969" />
+    <recording name="NAF_230312_10_1332506553201" speed="0.999920569643" offset="0:00:12:46.2620398" />
+    <recording name="NAF_230312_14_1332506552429" speed="0.999734295618" offset="0:00:12:46.6483882" />
+    <recording name="NAF_230312_15_1332506659872" speed="1.000006240872" offset="0:00:14:36.0464087" />
+    <recording name="NAF_230312_11_1332506693090" speed="0.999734295618" offset="0:00:15:05.6415405" />
+    <recording name="NAF_230312_14_1332506695169" speed="0.999734295618" offset="0:00:15:09.4032954" />
+    <recording name="NAF_230312_16_1332506704304" speed="1.000006240872" offset="0:00:15:11.3675489" />
+    <recording name="NAF_230312_3_1332506710982" speed="0.999734295618" offset="0:00:15:25.9511637" />
+    <recording name="NAF_230312_13_947319074834" speed="0.999734295618" offset="0:00:15:29.1023778" />
+    <recording name="NAF_230312_10_1332506795649" speed="0.999920569643" offset="0:00:16:48.7621232" />
+    <recording name="NAF_230312_15_1332506818488" speed="1.000006240872" offset="0:00:17:13.7774777" />
+    <recording name="NAF_230312_9_1332506835241" speed="0.999920569643" offset="0:00:17:30.9197015" />
+    <recording name="NAF_230312_11_1332506839490" speed="0.999734295618" offset="0:00:17:32.0273475" />
+    <recording name="NAF_230312_14_1332506846929" speed="0.999734295618" offset="0:00:17:41.1679856" />
+    <recording name="NAF_230312_10_1332506851376" speed="0.999920569643" offset="0:00:17:44.4493267" />
+    <recording name="NAF_230312_13_947319244996" speed="0.999734295618" offset="0:00:18:19.2806661" />
+    <recording name="NAF_230312_3_1332506885254" speed="0.999734295618" offset="0:00:18:20.1269168" />
+    <recording name="NAF_230312_15_1332506886363" speed="1.000006240872" offset="0:00:18:21.6966904" />
+    <recording name="NAF_230312_11_1332506891763" speed="0.999734295618" offset="0:00:18:24.2891817" />
+    <recording name="NAF_230312_9_1332507168398" speed="0.999920569643" offset="0:00:23:04.1030731" />
+    <recording name="NAF_230312_15_1332507191795" speed="1.000006240872" offset="0:00:23:27.3629873" />
+    <recording name="NAF_230312_10_1332507196263" speed="0.999920569643" offset="0:00:23:29.3322616" />
+    <recording name="NAF_230312_8_1332507193983" speed="0.999920569643" offset="0:00:23:30.6370478" />
+    <recording name="NAF_230312_11_1332507198383" speed="0.999734295618" offset="0:00:23:30.9192288" />
+    <recording name="NAF_230312_3_1332507196969" speed="0.999734295618" offset="0:00:23:31.8327662" />
+    <recording name="NAF_230312_14_1332507201123" speed="0.999734295618" offset="0:00:23:35.3760533" />
+    <recording name="NAF_230312_13_947319572218" speed="0.999734295618" offset="0:00:23:46.4916913" />
+    <recording name="NAF_230312_11_1332507386519" speed="0.999734295618" offset="0:00:26:39.0859608" />
+    <recording name="NAF_230312_13_947319744926" speed="0.999734295618" offset="0:00:26:39.1539532" />
+    <recording name="NAF_230312_3_1332507384409" speed="0.999734295618" offset="0:00:26:39.3582963" />
+    <recording name="NAF_230312_8_1332507385518" speed="0.999920569643" offset="0:00:26:42.1829594" />
+    <recording name="NAF_230312_15_1332507388528" speed="1.000006240872" offset="0:00:26:44.1813566" />
+    <recording name="NAF_230312_14_1332507391722" speed="0.999734295618" offset="0:00:26:45.9400966" />
+    <recording name="NAF_230312_13_947319786507" speed="0.999734295618" offset="0:00:27:20.7386133" />
+    <recording name="NAF_230312_16_1332507446184" speed="1.000006240872" offset="0:00:27:33.2614155" />
+    <recording name="NAF_230312_11_1332507493867" speed="0.999734295618" offset="0:00:28:26.4084805" />
+    <recording name="NAF_230312_11_1332507505002" speed="0.999734295618" offset="0:00:28:37.4114618" />
+    <recording name="NAF_230312_10_1332507505317" speed="0.999920569643" offset="0:00:28:38.4338444" />
+    <recording name="NAF_230312_15_1332507515320" speed="1.000006240872" offset="0:00:28:50.9398866" />
+    <recording name="NAF_230312_14_1332507527776" speed="0.999734295618" offset="0:00:29:01.9747032" />
+    <recording name="NAF_230312_1_1332507525413" speed="0.999920569643" offset="0:00:29:03.6324651" />
+    <recording name="NAF_230312_11_1332507531862" speed="0.999734295618" offset="0:00:29:04.2404856" />
+    <recording name="NAF_230312_10_1332507532682" speed="0.999920569643" offset="0:00:29:05.8491024" />
+    <recording name="NAF_230312_13_947319894476" speed="0.999734295618" offset="0:00:29:08.6798982" />
+    <recording name="NAF_230312_3_1332507536636" speed="0.999734295618" offset="0:00:29:11.5898940" />
+    <recording name="NAF_230312_6_1332507536887" speed="0.999920569643" offset="0:00:29:12.3810958" />
+    <recording name="NAF_230312_16_1332507566160" speed="1.000006240872" offset="0:00:29:33.3741640" />
+    <recording name="NAF_230312_9_1332507787496" speed="0.999920569643" offset="0:00:33:23.2404768" />
+    <recording name="NAF_230312_1_1332507803640" speed="0.999920569643" offset="0:00:33:41.8533680" />
+    <recording name="NAF_230312_11_1332507826707" speed="0.999734295618" offset="0:00:33:59.2302265" />
+    <recording name="NAF_230312_10_1332507831557" speed="0.999920569643" offset="0:00:34:04.6632280" />
+    <recording name="NAF_230312_15_1332507834163" speed="1.000006240872" offset="0:00:34:10.2335156" />
+    <recording name="NAF_230312_14_1332507836132" speed="0.999734295618" offset="0:00:34:10.4501106" />
+    <recording name="NAF_230312_3_1332507839158" speed="0.999734295618" offset="0:00:34:14.1105762" />
+    <recording name="NAF_230312_13_947320204603" speed="0.999734295618" offset="0:00:34:18.8649455" />
+    <recording name="NAF_230312_8_1332507847581" speed="0.999920569643" offset="0:00:34:24.2636372" />
+    <recording name="NAF_230312_13_947320377471" speed="0.999734295618" offset="0:00:37:11.7770722" />
+    <recording name="NAF_230312_10_1332508020408" speed="0.999920569643" offset="0:00:37:13.5211994" />
+    <recording name="NAF_230312_0_1332508112575" speed="0.999920569643" offset="0:00:38:47.8198912" />
+    <recording name="NAF_230312_13_947320509347" speed="0.999734295618" offset="0:00:39:23.5849514" />
+    <recording name="NAF_230312_15_1332508148040" speed="1.000006240872" offset="0:00:39:24.4730800" />
+    <recording name="NAF_230312_11_1332508152099" speed="0.999734295618" offset="0:00:39:24.6013811" />
+    <recording name="NAF_230312_11_1332508197711" speed="0.999734295618" offset="0:00:40:10.2399160" />
+    <recording name="NAF_230312_10_1332508205713" speed="0.999920569643" offset="0:00:40:18.8238492" />
+    <recording name="NAF_230312_7_1332508301059" speed="0.999920569643" offset="0:00:41:54.9722262" />
+    <recording name="NAF_230312_9_1332508321383" speed="0.999920569643" offset="0:00:42:17.1495028" />
+    <recording name="NAF_230312_16_1332508336536" speed="1.000006240872" offset="0:00:42:23.5140369" />
+  </recordings>
+  <syncpoints>
+    <syncpoint>
+      <recording1 name="NAF_230312_16_1332505792408" time="0:00:00:35.2901308" />
+      <recording2 name="NAF_230312_11_1332505816515" time="0:00:00:06.0882580" />
+    </syncpoint>
+    <syncpoint>
+      <recording1 name="NAF_230312_11_1332505816515" time="0:00:00:40.0905030" />
+      <recording2 name="NAF_230312_10_1332505854683" time="0:00:00:01.4535984" />
+    </syncpoint>
+    <syncpoint>
+      <recording1 name="NAF_230312_10_1332505854683" time="0:00:00:08.4112347" />
+      <recording2 name="NAF_230312_9_1332505856435" time="0:00:00:04.1395484" />
+    </syncpoint>
+    <syncpoint>
+      <recording1 name="NAF_230312_10_1332505854683" time="0:00:00:29.5878530" />
+      <recording2 name="NAF_230312_16_1332505879176" time="0:00:00:10.3925947" />
+    </syncpoint>
+    <syncpoint>
+      <recording1 name="NAF_230312_12_946808386716" time="0:00:00:00.9312357" />
+      <recording2 name="NAF_230312_16_1332505879176" time="0:00:01:00.4455207" />
+    </syncpoint>
+    <syncpoint>
+      <recording1 name="NAF_230312_12_946808386716" time="0:00:00:00.9325678" />
+      <recording2 name="NAF_230312_6_1332505879004" time="0:00:00:53.0342822" />
+    </syncpoint>
+    <syncpoint>
+      <recording1 name="NAF_230312_12_946808386716" time="0:00:00:00.9327322" />
+      <recording2 name="NAF_230312_10_1332505894403" time="0:00:00:40.0088164" />
+    </syncpoint>
+    <syncpoint>
+      <recording1 name="NAF_230312_12_946808386716" time="0:00:00:33.2175202" />
+      <recording2 name="NAF_230312_9_1332505892491" time="0:00:01:11.6320668" />
+    </syncpoint>
+    <syncpoint>
+      <recording1 name="NAF_230312_9_1332505892491" time="0:00:00:15.1631912" />
+      <recording2 name="NAF_230312_3_1332505906963" time="0:00:00:01.3886679" />
+    </syncpoint>
+    <syncpoint>
+      <recording1 name="NAF_230312_12_946808386716" time="0:00:00:33.2141411" />
+      <recording2 name="NAF_230312_11_1332505940334" time="0:00:00:26.9547857" />
+    </syncpoint>
+    <syncpoint>
+      <recording1 name="NAF_230312_12_946808386716" time="0:00:00:33.2161018" />
+      <recording2 name="NAF_230312_3_1332505947118" time="0:00:00:17.6596965" />
+    </syncpoint>
+    <syncpoint>
+      <recording1 name="NAF_230312_12_946808386716" time="0:00:04:19.4960580" />
+      <recording2 name="NAF_230312_15_1332505947217" time="0:00:04:03.3669581" />
+    </syncpoint>
+    <syncpoint>
+      <recording1 name="NAF_230312_12_946808386716" time="0:00:00:30.5499029" />
+      <recording2 name="NAF_230312_13_947318308267" time="0:00:00:14.0840750" />
+    </syncpoint>
+    <syncpoint>
+      <recording1 name="NAF_230312_12_946808386716" time="0:00:00:33.2236747" />
+      <recording2 name="NAF_230312_14_1332505950982" time="0:00:00:14.3576265" />
+    </syncpoint>
+    <syncpoint>
+      <recording1 name="NAF_230312_12_946808386716" time="0:00:01:08.5352935" />
+      <recording2 name="NAF_230312_0_1332505955422" time="0:00:00:44.5243709" />
+    </syncpoint>
+    <syncpoint>
+      <recording1 name="NAF_230312_12_946808386716" time="0:00:00:48.2284745" />
+      <recording2 name="NAF_230312_7_1332505975052" time="0:00:00:05.9077795" />
+    </syncpoint>
+    <syncpoint>
+      <recording1 name="NAF_230312_12_946808386716" time="0:00:02:10.7677454" />
+      <recording2 name="NAF_230312_9_1332506014858" time="0:00:00:46.7021286" />
+    </syncpoint>
+    <syncpoint>
+      <recording1 name="NAF_230312_12_946808386716" time="0:00:02:42.3938645" />
+      <recording2 name="NAF_230312_14_1332506025105" time="0:00:01:09.5784095" />
+    </syncpoint>
+    <syncpoint>
+      <recording1 name="NAF_230312_12_946808386716" time="0:00:01:45.4577953" />
+      <recording2 name="NAF_230312_8_1332506033975" time="0:00:00:01.4096630" />
+    </syncpoint>
+    <syncpoint>
+      <recording1 name="NAF_230312_12_946808386716" time="0:00:02:28.9954029" />
+      <recording2 name="NAF_230312_16_1332506083704" time="0:00:00:04.1873764" />
+    </syncpoint>
+    <syncpoint>
+      <recording1 name="NAF_230312_12_946808386716" time="0:00:04:59.6036684" />
+      <recording2 name="NAF_230312_16_1332506144978" time="0:00:01:33.5414488" />
+    </syncpoint>
+    <syncpoint>
+      <recording1 name="NAF_230312_12_946808386716" time="0:00:04:33.7752335" />
+      <recording2 name="NAF_230312_10_1332506203752" time="0:00:00:03.4786558" />
+    </syncpoint>
+    <syncpoint>
+      <recording1 name="NAF_230312_12_946808386716" time="0:00:04:59.6013916" />
+      <recording2 name="NAF_230312_15_1332506225008" time="0:00:00:05.1746838" />
+    </syncpoint>
+    <syncpoint>
+      <recording1 name="NAF_230312_12_946808386716" time="0:00:06:31.3683348" />
+      <recording2 name="NAF_230312_10_1332506232951" time="0:00:01:31.9143852" />
+    </syncpoint>
+    <syncpoint>
+      <recording1 name="NAF_230312_12_946808386716" time="0:00:05:57.5091513" />
+      <recording2 name="NAF_230312_13_947318597426" time="0:00:00:52.0623702" />
+    </syncpoint>
+    <syncpoint>
+      <recording1 name="NAF_230312_12_946808386716" time="0:00:06:35.7936413" />
+      <recording2 name="NAF_230312_14_1332506238497" time="0:00:01:29.6288298" />
+    </syncpoint>
+    <syncpoint>
+      <recording1 name="NAF_230312_12_946808386716" time="0:00:06:22.9749549" />
+      <recording2 name="NAF_230312_3_1332506248656" time="0:00:01:05.8868046" />
+    </syncpoint>
+    <syncpoint>
+      <recording1 name="NAF_230312_12_946808386716" time="0:00:06:31.3649603" />
+      <recording2 name="NAF_230312_16_1332506324792" time="0:00:00:05.7062762" />
+    </syncpoint>
+    <syncpoint>
+      <recording1 name="NAF_230312_12_946808386716" time="0:00:07:58.9374576" />
+      <recording2 name="NAF_230312_11_1332506402587" time="0:00:00:10.4842511" />
+    </syncpoint>
+    <syncpoint>
+      <recording1 name="NAF_230312_12_946808386716" time="0:00:08:36.5144040" />
+      <recording2 name="NAF_230312_11_1332506448059" time="0:00:00:02.5227056" />
+    </syncpoint>
+    <syncpoint>
+      <recording1 name="NAF_230312_12_946808386716" time="0:00:10:06.2001140" />
+      <recording2 name="NAF_230312_15_1332506447560" time="0:00:01:29.4588116" />
+    </syncpoint>
+    <syncpoint>
+      <recording1 name="NAF_230312_12_946808386716" time="0:00:10:05.7246767" />
+      <recording2 name="NAF_230312_14_1332506450107" time="0:00:01:27.8844478" />
+    </syncpoint>
+    <syncpoint>
+      <recording1 name="NAF_230312_12_946808386716" time="0:00:10:15.8713610" />
+      <recording2 name="NAF_230312_8_1332506450210" time="0:00:01:35.5944709" />
+    </syncpoint>
+    <syncpoint>
+      <recording1 name="NAF_230312_12_946808386716" time="0:00:10:06.2018879" />
+      <recording2 name="NAF_230312_13_947318819931" time="0:00:01:18.6632262" />
+    </syncpoint>
+    <syncpoint>
+      <recording1 name="NAF_230312_12_946808386716" time="0:00:10:15.8548979" />
+      <recording2 name="NAF_230312_3_1332506462412" time="0:00:01:25.0566785" />
+    </syncpoint>
+    <syncpoint>
+      <recording1 name="NAF_230312_12_946808386716" time="0:00:10:15.8574753" />
+      <recording2 name="NAF_230312_16_1332506490488" time="0:00:01:04.8997710" />
+    </syncpoint>
+    <syncpoint>
+      <recording1 name="NAF_230312_12_946808386716" time="0:00:10:15.8710469" />
+      <recording2 name="NAF_230312_9_1332506488450" time="0:00:00:58.3127818" />
+    </syncpoint>
+    <syncpoint>
+      <recording1 name="NAF_230312_12_946808386716" time="0:00:10:26.2512046" />
+      <recording2 name="NAF_230312_11_1332506551394" time="0:00:00:08.8982951" />
+    </syncpoint>
+    <syncpoint>
+      <recording1 name="NAF_230312_12_946808386716" time="0:00:11:53.0689932" />
+      <recording2 name="NAF_230312_15_1332506548808" time="0:00:01:34.9052435" />
+    </syncpoint>
+    <syncpoint>
+      <recording1 name="NAF_230312_12_946808386716" time="0:00:10:26.2684740" />
+      <recording2 name="NAF_230312_13_947318911838" time="0:00:00:06.7351978" />
+    </syncpoint>
+    <syncpoint>
+      <recording1 name="NAF_230312_12_946808386716" time="0:00:11:13.1559946" />
+      <recording2 name="NAF_230312_10_1332506553201" time="0:00:00:53.4422755" />
+    </syncpoint>
+    <syncpoint>
+      <recording1 name="NAF_230312_12_946808386716" time="0:00:10:26.7618212" />
+      <recording2 name="NAF_230312_14_1332506552429" time="0:00:00:06.6617537" />
+    </syncpoint>
+    <syncpoint>
+      <recording1 name="NAF_230312_12_946808386716" time="0:00:12:16.1587573" />
+      <recording2 name="NAF_230312_15_1332506659872" time="0:00:00:06.6606693" />
+    </syncpoint>
+    <syncpoint>
+      <recording1 name="NAF_230312_12_946808386716" time="0:00:12:41.4612482" />
+      <recording2 name="NAF_230312_11_1332506693090" time="0:00:00:02.3680284" />
+    </syncpoint>
+    <syncpoint>
+      <recording1 name="NAF_230312_12_946808386716" time="0:00:14:39.5082990" />
+      <recording2 name="NAF_230312_14_1332506695169" time="0:00:01:56.6533243" />
+    </syncpoint>
+    <syncpoint>
+      <recording1 name="NAF_230312_12_946808386716" time="0:00:15:00.9693771" />
+      <recording2 name="NAF_230312_16_1332506704304" time="0:00:02:16.1501489" />
+    </syncpoint>
+    <syncpoint>
+      <recording1 name="NAF_230312_12_946808386716" time="0:00:14:49.9888396" />
+      <recording2 name="NAF_230312_3_1332506710982" time="0:00:01:50.5859966" />
+    </syncpoint>
+    <syncpoint>
+      <recording1 name="NAF_230312_12_946808386716" time="0:00:15:00.9693227" />
+      <recording2 name="NAF_230312_13_947319074834" time="0:00:01:58.4152656" />
+    </syncpoint>
+    <syncpoint>
+      <recording1 name="NAF_230312_12_946808386716" time="0:00:14:39.5085670" />
+      <recording2 name="NAF_230312_10_1332506795649" time="0:00:00:17.2947645" />
+    </syncpoint>
+    <syncpoint>
+      <recording1 name="NAF_230312_12_946808386716" time="0:00:15:00.9670662" />
+      <recording2 name="NAF_230312_15_1332506818488" time="0:00:00:13.7379092" />
+    </syncpoint>
+    <syncpoint>
+      <recording1 name="NAF_230312_12_946808386716" time="0:00:15:10.5397211" />
+      <recording2 name="NAF_230312_9_1332506835241" time="0:00:00:06.1683403" />
+    </syncpoint>
+    <syncpoint>
+      <recording1 name="NAF_230312_12_946808386716" time="0:00:15:42.8460579" />
+      <recording2 name="NAF_230312_11_1332506839490" time="0:00:00:37.3670311" />
+    </syncpoint>
+    <syncpoint>
+      <recording1 name="NAF_230312_12_946808386716" time="0:00:15:16.1917048" />
+      <recording2 name="NAF_230312_14_1332506846929" time="0:00:00:01.5720399" />
+    </syncpoint>
+    <syncpoint>
+      <recording1 name="NAF_230312_12_946808386716" time="0:00:15:34.0958008" />
+      <recording2 name="NAF_230312_10_1332506851376" time="0:00:00:16.1947948" />
+    </syncpoint>
+    <syncpoint>
+      <recording1 name="NAF_230312_12_946808386716" time="0:00:15:58.1981158" />
+      <recording2 name="NAF_230312_13_947319244996" time="0:00:00:05.4657704" />
+    </syncpoint>
+    <syncpoint>
+      <recording1 name="NAF_230312_12_946808386716" time="0:00:15:58.1978086" />
+      <recording2 name="NAF_230312_3_1332506885254" time="0:00:00:04.6192125" />
+    </syncpoint>
+    <syncpoint>
+      <recording1 name="NAF_230312_12_946808386716" time="0:00:15:58.1977881" />
+      <recording2 name="NAF_230312_15_1332506886363" time="0:00:00:03.0494184" />
+    </syncpoint>
+    <syncpoint>
+      <recording1 name="NAF_230312_12_946808386716" time="0:00:16:08.8303346" />
+      <recording2 name="NAF_230312_11_1332506891763" time="0:00:00:11.0894736" />
+    </syncpoint>
+    <syncpoint>
+      <recording1 name="NAF_230312_12_946808386716" time="0:00:20:40.6288580" />
+      <recording2 name="NAF_230312_9_1332507168398" time="0:00:00:03.0741056" />
+    </syncpoint>
+    <syncpoint>
+      <recording1 name="NAF_230312_12_946808386716" time="0:00:21:07.5034814" />
+      <recording2 name="NAF_230312_15_1332507191795" time="0:00:00:06.6888148" />
+    </syncpoint>
+    <syncpoint>
+      <recording1 name="NAF_230312_12_946808386716" time="0:00:21:07.5076218" />
+      <recording2 name="NAF_230312_10_1332507196263" time="0:00:00:04.7236809" />
+    </syncpoint>
+    <syncpoint>
+      <recording1 name="NAF_230312_12_946808386716" time="0:00:21:07.0876600" />
+      <recording2 name="NAF_230312_8_1332507193983" time="0:00:00:02.9989329" />
+    </syncpoint>
+    <syncpoint>
+      <recording1 name="NAF_230312_12_946808386716" time="0:00:21:17.1494383" />
+      <recording2 name="NAF_230312_11_1332507198383" time="0:00:00:12.7785302" />
+    </syncpoint>
+    <syncpoint>
+      <recording1 name="NAF_230312_12_946808386716" time="0:00:21:07.5046157" />
+      <recording2 name="NAF_230312_3_1332507196969" time="0:00:00:02.2201702" />
+    </syncpoint>
+    <syncpoint>
+      <recording1 name="NAF_230312_12_946808386716" time="0:00:21:17.1508517" />
+      <recording2 name="NAF_230312_14_1332507201123" time="0:00:00:08.3231191" />
+    </syncpoint>
+    <syncpoint>
+      <recording1 name="NAF_230312_12_946808386716" time="0:00:21:50.1496326" />
+      <recording2 name="NAF_230312_13_947319572218" time="0:00:00:30.2062620" />
+    </syncpoint>
+    <syncpoint>
+      <recording1 name="NAF_230312_12_946808386716" time="0:00:24:24.4634480" />
+      <recording2 name="NAF_230312_11_1332507386519" time="0:00:00:11.9258079" />
+    </syncpoint>
+    <syncpoint>
+      <recording1 name="NAF_230312_12_946808386716" time="0:00:24:20.1821826" />
+      <recording2 name="NAF_230312_13_947319744926" time="0:00:00:07.5765501" />
+    </syncpoint>
+    <syncpoint>
+      <recording1 name="NAF_230312_12_946808386716" time="0:00:24:29.9503611" />
+      <recording2 name="NAF_230312_3_1332507384409" time="0:00:00:17.1403855" />
+    </syncpoint>
+    <syncpoint>
+      <recording1 name="NAF_230312_12_946808386716" time="0:00:24:24.4699899" />
+      <recording2 name="NAF_230312_8_1332507385518" time="0:00:00:08.8353512" />
+    </syncpoint>
+    <syncpoint>
+      <recording1 name="NAF_230312_12_946808386716" time="0:00:25:52.8109983" />
+      <recording2 name="NAF_230312_15_1332507388528" time="0:00:01:35.1779624" />
+    </syncpoint>
+    <syncpoint>
+      <recording1 name="NAF_230312_12_946808386716" time="0:00:26:03.0272336" />
+      <recording2 name="NAF_230312_14_1332507391722" time="0:00:01:43.6354577" />
+    </syncpoint>
+    <syncpoint>
+      <recording1 name="NAF_230312_12_946808386716" time="0:00:25:26.3179062" />
+      <recording2 name="NAF_230312_13_947319786507" time="0:00:00:32.1276136" />
+    </syncpoint>
+    <syncpoint>
+      <recording1 name="NAF_230312_12_946808386716" time="0:00:26:05.1158788" />
+      <recording2 name="NAF_230312_16_1332507446184" time="0:00:00:58.4027840" />
+    </syncpoint>
+    <syncpoint>
+      <recording1 name="NAF_230312_12_946808386716" time="0:00:26:05.1147542" />
+      <recording2 name="NAF_230312_11_1332507493867" time="0:00:00:05.2545944" />
+    </syncpoint>
+    <syncpoint>
+      <recording1 name="NAF_230312_12_946808386716" time="0:00:26:15.8230198" />
+      <recording2 name="NAF_230312_11_1332507505002" time="0:00:00:04.9598787" />
+    </syncpoint>
+    <syncpoint>
+      <recording1 name="NAF_230312_12_946808386716" time="0:00:26:13.5872012" />
+      <recording2 name="NAF_230312_10_1332507505317" time="0:00:00:01.7016775" />
+    </syncpoint>
+    <syncpoint>
+      <recording1 name="NAF_230312_12_946808386716" time="0:00:28:05.1835637" />
+      <recording2 name="NAF_230312_15_1332507515320" time="0:00:01:40.7919978" />
+    </syncpoint>
+    <syncpoint>
+      <recording1 name="NAF_230312_12_946808386716" time="0:00:27:35.7505790" />
+      <recording2 name="NAF_230312_14_1332507527776" time="0:00:01:00.3241965" />
+    </syncpoint>
+    <syncpoint>
+      <recording1 name="NAF_230312_12_946808386716" time="0:00:26:58.3728728" />
+      <recording2 name="NAF_230312_1_1332507525413" time="0:00:00:21.2887284" />
+    </syncpoint>
+    <syncpoint>
+      <recording1 name="NAF_230312_12_946808386716" time="0:00:26:58.3726254" />
+      <recording2 name="NAF_230312_11_1332507531862" time="0:00:00:20.6804605" />
+    </syncpoint>
+    <syncpoint>
+      <recording1 name="NAF_230312_12_946808386716" time="0:00:26:58.3728633" />
+      <recording2 name="NAF_230312_10_1332507532682" time="0:00:00:19.0720816" />
+    </syncpoint>
+    <syncpoint>
+      <recording1 name="NAF_230312_12_946808386716" time="0:00:26:45.6427939" />
+      <recording2 name="NAF_230312_13_947319894476" time="0:00:00:03.5112164" />
+    </syncpoint>
+    <syncpoint>
+      <recording1 name="NAF_230312_12_946808386716" time="0:00:27:26.9756211" />
+      <recording2 name="NAF_230312_3_1332507536636" time="0:00:00:41.9340478" />
+    </syncpoint>
+    <syncpoint>
+      <recording1 name="NAF_230312_12_946808386716" time="0:00:26:58.3723695" />
+      <recording2 name="NAF_230312_6_1332507536887" time="0:00:00:12.5395944" />
+    </syncpoint>
+    <syncpoint>
+      <recording1 name="NAF_230312_12_946808386716" time="0:00:28:05.1861731" />
+      <recording2 name="NAF_230312_16_1332507566160" time="0:00:00:58.3603298" />
+    </syncpoint>
+    <syncpoint>
+      <recording1 name="NAF_230312_12_946808386716" time="0:00:30:59.0473085" />
+      <recording2 name="NAF_230312_9_1332507787496" time="0:00:00:02.3551524" />
+    </syncpoint>
+    <syncpoint>
+      <recording1 name="NAF_230312_12_946808386716" time="0:00:31:26.3294011" />
+      <recording2 name="NAF_230312_1_1332507803640" time="0:00:00:11.0243538" />
+    </syncpoint>
+    <syncpoint>
+      <recording1 name="NAF_230312_12_946808386716" time="0:00:32:08.8644054" />
+      <recording2 name="NAF_230312_11_1332507826707" time="0:00:00:36.1824996" />
+    </syncpoint>
+    <syncpoint>
+      <recording1 name="NAF_230312_12_946808386716" time="0:00:32:09.8004732" />
+      <recording2 name="NAF_230312_10_1332507831557" time="0:00:00:31.6855659" />
+    </syncpoint>
+    <syncpoint>
+      <recording1 name="NAF_230312_12_946808386716" time="0:00:32:08.8652457" />
+      <recording2 name="NAF_230312_15_1332507834163" time="0:00:00:25.1800508" />
+    </syncpoint>
+    <syncpoint>
+      <recording1 name="NAF_230312_12_946808386716" time="0:00:32:02.2049673" />
+      <recording2 name="NAF_230312_14_1332507836132" time="0:00:00:18.3031774" />
+    </syncpoint>
+    <syncpoint>
+      <recording1 name="NAF_230312_12_946808386716" time="0:00:32:08.8700259" />
+      <recording2 name="NAF_230312_3_1332507839158" time="0:00:00:21.3077704" />
+    </syncpoint>
+    <syncpoint>
+      <recording1 name="NAF_230312_12_946808386716" time="0:00:32:08.8730196" />
+      <recording2 name="NAF_230312_13_947320204603" time="0:00:00:16.5563948" />
+    </syncpoint>
+    <syncpoint>
+      <recording1 name="NAF_230312_12_946808386716" time="0:00:32:02.2104735" />
+      <recording2 name="NAF_230312_8_1332507847581" time="0:00:00:04.4951570" />
+    </syncpoint>
+    <syncpoint>
+      <recording1 name="NAF_230312_12_946808386716" time="0:00:34:50.6112368" />
+      <recording2 name="NAF_230312_13_947320377471" time="0:00:00:05.3824853" />
+    </syncpoint>
+    <syncpoint>
+      <recording1 name="NAF_230312_12_946808386716" time="0:00:36:56.3297919" />
+      <recording2 name="NAF_230312_10_1332508020408" time="0:00:02:09.3569132" />
+    </syncpoint>
+    <syncpoint>
+      <recording1 name="NAF_230312_12_946808386716" time="0:00:37:21.0738036" />
+      <recording2 name="NAF_230312_0_1332508112575" time="0:00:00:59.8022331" />
+    </syncpoint>
+    <syncpoint>
+      <recording1 name="NAF_230312_12_946808386716" time="0:00:37:11.9138830" />
+      <recording2 name="NAF_230312_13_947320509347" time="0:00:00:14.8772523" />
+    </syncpoint>
+    <syncpoint>
+      <recording1 name="NAF_230312_12_946808386716" time="0:00:37:12.3998243" />
+      <recording2 name="NAF_230312_15_1332508148040" time="0:00:00:14.4750650" />
+    </syncpoint>
+    <syncpoint>
+      <recording1 name="NAF_230312_12_946808386716" time="0:00:37:12.4074779" />
+      <recording2 name="NAF_230312_11_1332508152099" time="0:00:00:14.3544175" />
+    </syncpoint>
+    <syncpoint>
+      <recording1 name="NAF_230312_12_946808386716" time="0:00:38:00.6477028" />
+      <recording2 name="NAF_230312_11_1332508197711" time="0:00:00:16.9561075" />
+    </syncpoint>
+    <syncpoint>
+      <recording1 name="NAF_230312_12_946808386716" time="0:00:38:00.6481457" />
+      <recording2 name="NAF_230312_10_1332508205713" time="0:00:00:08.3726172" />
+    </syncpoint>
+    <syncpoint>
+      <recording1 name="NAF_230312_12_946808386716" time="0:00:39:29.4878899" />
+      <recording2 name="NAF_230312_7_1332508301059" time="0:00:00:01.0639844" />
+    </syncpoint>
+    <syncpoint>
+      <recording1 name="NAF_230312_12_946808386716" time="0:00:39:54.9251858" />
+      <recording2 name="NAF_230312_9_1332508321383" time="0:00:00:04.3240037" />
+    </syncpoint>
+    <syncpoint>
+      <recording1 name="NAF_230312_12_946808386716" time="0:00:40:02.9801343" />
+      <recording2 name="NAF_230312_16_1332508336536" time="0:00:00:06.0144181" />
+    </syncpoint>
+  </syncpoints>
+</sync>
