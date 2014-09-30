@@ -1,0 +1,11 @@
+# windows wget
+lib*.dll
+wget.exe
+
+# jiku dataset downloads
+download*
+metadata/
+thumbnails/
+
+# script output
+_locations*
