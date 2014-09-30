@@ -28,10 +28,13 @@ function init(mapId, selectedEventKey) {
 	var rainbow = new Rainbow().setSpectrum('green', 'red', 'blue');
 	var markers = [];
 	var overlays = {};
+	var utcToLocalTimeOffset = new Date().getTimezoneOffset() * 60 * 1000;
+	var utcToSingoporeTimeOffset = 8 * 60 * 60 * 1000;
 
 	var popupTemplate = '\
 		<div class="videoinfo">\
 			<p class="title">${videoKey}</p>\
+			<p>${date}</p>\
 			<img src="../thumbnails/${videoKey}.jpg" width="200px"/>\
 			<p>\
 				Accuracy: ${acc}<br/>\
@@ -58,7 +61,9 @@ function init(mapId, selectedEventKey) {
 			var circle = L.circle(position, 1, {color: '#'+rainbow.colourAt(video.location.acc)}).bindPopup(popupTemplate
 				.replaceAll('${eventKey}', eventKey)
 				.replaceAll('${videoKey}', videoKey)
-				.replaceAll('${acc}', (video.location.acc).toFixed(1)));
+				.replaceAll('${acc}', (video.location.acc).toFixed(1))
+				.replaceAll('${date}', new Date(video.start + utcToLocalTimeOffset + utcToSingoporeTimeOffset).toLocaleString())
+				);
 			markers.push(L.marker(position));
 			eventMarkers.push(circle);
 			eventMarkers.push(polyline);

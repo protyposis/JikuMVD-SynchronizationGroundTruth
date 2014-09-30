@@ -36,6 +36,7 @@ for root, dirs, filenames in os.walk(indir):
 		if filename.endswith('.xml'):
 			f = root + filename
 			xml = ET.parse(f)
+			startTimestamp = int(xml.find('./start').text)
 			xmlLocation = xml.find('.//location');
 			# print(f)
 			if list(xmlLocation): # check if xmlLocation is a list of subproperties; if not, it is a 'location missing' placeholder text
@@ -45,8 +46,8 @@ for root, dirs, filenames in os.walk(indir):
 				location = (lat, lon)
 				direction = float(xml.find('.//orientation/direction').text)
 				if lat != 0:
-					T.append((filename,) + (location) + (direction,))
-					M[filename] = { 'location':{ 'lat':lat, 'lon':lon, 'acc':acc }, 'dir':direction }
+					T.append((filename,startTimestamp) + (location) + (direction,))
+					M[filename] = { 'location':{ 'lat':lat, 'lon':lon, 'acc':acc }, 'dir':direction, 'start':startTimestamp }
 			# else:
 			# 	print(xmlLocation.text)
 
