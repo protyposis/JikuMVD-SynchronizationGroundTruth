@@ -74,7 +74,20 @@ function init(mapId, selectedEventKey) {
 	if(selectedEventKey == null) {
 		var group = L.featureGroup(markers);
 		map.fitBounds(group.getBounds().pad(0.2));
-		L.control.layers(null, overlays, {collapsed: false}).addTo(map);
+
+		overlaysLinks = {};
+		for(layerName in overlays) {
+			overlaysLinks['<a href="#" class="eventselector">' + layerName + '</a>'] = overlays[layerName];
+		}
+
+		L.control.layers(null, overlaysLinks, {collapsed: false}).addTo(map);
+
+		$('#map').delegate('.eventselector', 'click', function() {
+			console.log('click on ' + this.innerHTML);
+			var layer = overlays[this.innerHTML];
+			map.fitBounds(layer.getBounds());
+			layer.addTo(map);
+		});
 	} else {
 		overlays[selectedEventKey].addTo(map);
 		map.fitBounds(overlays[selectedEventKey].getBounds().pad(0.2));
