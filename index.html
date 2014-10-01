@@ -17,82 +17,127 @@
       }
 
       body {
-        /* Margin bottom by footer height */
-        margin-bottom: 60px;
+        margin-bottom: 10em;
       }
 
       .footer {
         position: absolute;
         bottom: 0;
         width: 100%;
-        margin: 20px 0 0 0;
-        padding: 20px 0;
+        margin: 2em 0 0 0;
+        padding: 1.5em 0;
         background-color: #f5f5f5;
+        height: 8em;
       }
 
       .container {
         width: auto;
-        max-width: 680px;
+        max-width: 870px;
         padding: 0 15px;
       }
       .container .text-muted {
         margin-bottom: 0;
-      }
-
-      .event {
-        max-width: 60%;
-        margin: auto;
-      }
-      .content {
-        margin-bottom: 7em;
+        text-align: center;
       }
 
       .logo {
-        float: left;
-        margin-right: 1em;
+        text-align: center;
+        margin-bottom: 1em;
+      }
+
+      .syncpicture {
+        height: 400px;
+        overflow-y: auto;
       }
     </style>
   </head>
 
   <body>
 
-    <!-- Begin page content -->
     <div class="container content">
       <div class="page-header">
         <h1>A Synchronization Ground Truth for the Jiku Mobile Video Dataset</h1>
       </div>
 
-      <p class="lead">The synchronization ground truth XML is not published yet, however the overview images can be seen below.</p>
+      <blockquote>
+        <p>M. Guggenberger, M. Lux, and L. Böszörmenyi. A Synchronization Ground Truth for the Jiku Mobile Video Dataset. In MultiMedia Modeling, Lecture Notes in Computer Science. Springer International Publishing, 2015.</p>
+      </blockquote>
 
-      <h2>GT_090912</h2>
-      <img src="images/GT_090912.png" class="img-responsive event">
+      <div class="center-block" style="text-align:center;">
+        <a href="#" class="btn btn-primary disabled">Paper (not published yet)</a>
+        <a href="https://github.com/protyposis/JikuMVD-SynchronizationGroundTruth/" class="btn btn-primary">Git repository</a>
+        <a href="https://github.com/protyposis/JikuMVD-SynchronizationGroundTruth/archive/master.zip" class="btn btn-primary">ZIP archive</a>
+      </div>
 
-      <h2>NAF_160312</h2>
-      <img src="images/NAF_160312.png" class="img-responsive event">
+      <h2>Synchronization Overview</h2>
 
-      <h2>NAF_230312</h2>
-      <img src="images/NAF_230312.png" class="img-responsive event">
+      <p>The following pictures provide for each event a graphical overview of the synchronized tracks ordered on a timeline. The colors of the tracks mark groups of overlapping recording clusters. Tracks in white with only a horizontal line in the middle are muted tracks that have been excluded from the ground truth because they are non-continuous recordings. Each cluster contains one track with a red background, these are the recordings whose original timestamps have been used to order the clusters correctly in time.</p>
 
-      <h2>RAF_100812</h2>
-      <img src="images/RAF_100812.png" class="img-responsive event">
+      <div class="panel panel-default">
+        <div class="panel-heading">
+          <h3 class="panel-title">GT_090912</h3>
+        </div>
+        <div class="panel-body">
+          <div class="syncpicture">
+            <img src="images/GT_090912.png" class="img-responsive">
+          </div>
+        </div>
+      </div>
 
-      <h2>SAF_290512</h2>
-      <img src="images/SAF_290512.png" class="img-responsive event">
+      <div class="panel panel-default">
+        <div class="panel-heading">
+          <h3 class="panel-title">NAF_160312</h3>
+        </div>
+        <div class="panel-body">
+          <div class="syncpicture">
+            <img src="images/NAF_160312.png" class="img-responsive">
+          </div>
+        </div>
+      </div>
+
+      <div class="panel panel-default">
+        <div class="panel-heading">
+          <h3 class="panel-title">NAF_230312</h3>
+        </div>
+        <div class="panel-body">
+          <div class="syncpicture">
+            <img src="images/NAF_230312.png" class="img-responsive">
+          </div>
+        </div>
+      </div>
+
+      <div class="panel panel-default">
+        <div class="panel-heading">
+          <h3 class="panel-title">RAF_100812</h3>
+        </div>
+        <div class="panel-body">
+          <div class="syncpicture">
+            <img src="images/RAF_100812.png" class="img-responsive">
+          </div>
+        </div>
+      </div>
+
+      <div class="panel panel-default">
+        <div class="panel-heading">
+          <h3 class="panel-title">SAF_290512</h3>
+        </div>
+        <div class="panel-body">
+          <div class="syncpicture">
+            <img src="images/SAF_290512.png" class="img-responsive">
+          </div>
+        </div>
+      </div>
 
     </div>
 
     <div class="footer">
       <div class="container">
-        <img src="images/UNI_KLU_Logo_cmyk.png" height="40" class="logo"/>
-        <p class="text-muted">
+        <img src="images/UNI_KLU_Logo_cmyk.png" height="40" class="logo center-block"/>
+        <p class="text-muted center-block">
           &copy; 2014 <a href="http://itec.aau.at">Institute of Information Technology</a>, <a href="http://aau.at">Alpen-Adria-Universität Klagenfurt</a>, Austria. <a href="mailto:mario.guggenberger@aau.at">email</a>.</p>
       </div>
     </div>
 
-
-    <!-- Bootstrap core JavaScript
-    ================================================== -->
-    <!-- Placed at the end of the document so the pages load faster -->
     <script src="js/bootstrap.min.js"></script>
   </body>
 </html>
