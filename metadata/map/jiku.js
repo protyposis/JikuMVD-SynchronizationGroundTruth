@@ -35,7 +35,7 @@ function init(mapId, selectedEventKey) {
 		<div class="videoinfo">\
 			<p class="title">${videoKey}</p>\
 			<p>${date}</p>\
-			<img src="../thumbnails/${videoKey}.jpg" width="200px"/>\
+			<img src="http://liubei.ddns.comp.nus.edu.sg/jiku/dataset/download/datasets/${eventKey}/${videoKey}.jpg" width="200px"/>\
 			<p>\
 				Accuracy: ${acc}<br/>\
 				<a href="http://liubei.ddns.comp.nus.edu.sg/jiku/dataset/download/datasets/${eventKey}/${videoKey}.mp4">Video</a>\

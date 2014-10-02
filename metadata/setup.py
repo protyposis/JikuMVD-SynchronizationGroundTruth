@@ -2,6 +2,10 @@ import os
 import sys
 import subprocess
 
+# This script downloads and prepares the Jiku metadata for the graphical map. It
+# only need to be run for the first time, all further data preparation is done
+# in the extractgeo.py script.
+
 def is_tool(name):
 	try:
 		devnull = open(os.devnull)
@@ -48,23 +52,16 @@ if not is_tool("wget"):
 	print(errorWgetMissing)
 	sys.exit(3)
 
-print("extracting metadata XML files and thumbnails from download script...")
+print("extracting metadata XML files from download script...")
 with open("download"+extension, "r") as dlin, \
-		open("download-xml"+extension, "w") as dlxmlout, \
-		open("download-jpg"+extension, "w") as dljpgout:
+		open("download-xml"+extension, "w") as dlxmlout:
 	for line in dlin:
 		if line.strip().endswith(".xml"):
 			line = line.replace('-N', '-N -P ./metadata/')
 			dlxmlout.write(line)
-		elif line.strip().endswith(".jpg"):
-			line = line.replace('-N', '-N -P ./thumbnails/')
-			dljpgout.write(line)
 
 print("downloading XML metadata files to 'metadata' subdirectory...")
 subprocess.call("download-xml"+extension)
-
-print("downloading JPEG thumbnail files to 'thumbnails' subdirectory...")
-subprocess.call("download-jpg"+extension)
 
 print("downloading finished!")
 print("preparing geo data...")
