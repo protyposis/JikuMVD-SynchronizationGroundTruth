@@ -87,6 +87,7 @@ function init(mapId, selectedEventKey) {
 			var layer = overlays[this.innerHTML];
 			map.fitBounds(layer.getBounds());
 			layer.addTo(map);
+			return false;
 		});
 	} else {
 		overlays[selectedEventKey].addTo(map);
