@@ -9,6 +9,8 @@
     <title>A Synchronization Ground Truth for the Jiku Mobile Video Dataset</title>
 
     <link href="css/bootstrap.min.css" rel="stylesheet">
+    <link href="map/leaflet.css" rel="stylesheet">
+    <link href="map/jiku.css" rel="stylesheet">
 
     <style type="text/css">
       html {
@@ -48,6 +50,10 @@
       .syncpicture {
         height: 400px;
         overflow-y: auto;
+      }
+
+      #map {
+        height: 500px;
       }
     </style>
   </head>
@@ -127,6 +133,26 @@
           </div>
         </div>
       </div>
+
+      <h2>Geodata Map</h2>
+
+      <div class="alert alert-info">The geodata map does not belong to the actual ground truth described in the paper but is supplied as an additional resource.</div>
+
+      <p>Due to the difference of the speed of sound and speed of light, all recordings have an offset between their audio and video tracks, depending on the distance from which a scene was recorded. A distance of 10 meters equals an offset of about 30 milliseconds. While this itself is usually not noticeable, especially when the audio lags behind the video which the human brain is used to, it can get noticeable when synchronizing multiple recordings. Since the ground truth is based on the synchronization of the audio tracks of the recordings, this automatically implies that the video tracks suffer from certain offsets among each other since they are recorded from varying distances from each respective target scene.</p>
+
+      <p>Since the Jiku dataset also contains additional metadata including the geographical recording positions and the compass direction the devices were pointed at, the idea was to calculate the distances from the recorded scenes and compensate the video offsets. We hypothesized that the location of the target scene (e.g. a stage) could be located in a certain area where the line-of-sight vectors show their maximum overlap or concentration. The map below is the graphical representation of this idea and served as a first visual validation step.</p>
+
+      <p>Unfortunately, the map demonstrates that our hypothesis does probably not hold. Additionally, the supplied metadata is very incomplete. The location data from GPS is missing for about half of the recordings, and the location accuracy values do not make much sense. There is no unit specified, the values are spread between 0 and 700000 (which device gets a GPS fix with an inaccuracy of 700000 meters?), and there is no raw location data like there is for the compass data to help in the reconstruction and understanding of the values.</p>
+
+      <div id="map"></div>
+      <script src="map/jquery-2.1.1.min.js"></script>
+      <script src="map/_locations.js"></script>
+      <script src="map/leaflet.js"></script>
+      <script src="map/rainbowvis.js"></script>
+      <script src="map/jiku.js"></script>
+      <script>
+        init('map');
+      </script>
 
     </div>
 
