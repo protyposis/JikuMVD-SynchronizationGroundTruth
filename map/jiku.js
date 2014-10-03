@@ -52,7 +52,7 @@ function init(mapId, selectedEventKey) {
 		var eventMarkers = [];
 		for(var videoKey in event) {
 			var video = event[videoKey];
-			console.log(videoKey + ': ' + video);
+			//console.log(videoKey + ': ' + video);
 			var position = L.latLng(video.location.lat, video.location.lon);
 			var direction = L.latLng(video.location.lat + 0.001, video.location.lon);
 			direction = rotatePoint(map, direction, video.dir, position);
@@ -77,13 +77,13 @@ function init(mapId, selectedEventKey) {
 
 		overlaysLinks = {};
 		for(layerName in overlays) {
-			overlaysLinks['<a href="#" class="eventselector">' + layerName + '</a>'] = overlays[layerName];
+			overlaysLinks['<a class="eventselector">' + layerName + '</a>'] = overlays[layerName];
 		}
 
 		L.control.layers(null, overlaysLinks, {collapsed: false}).addTo(map);
 
-		$('#map').delegate('.eventselector', 'click', function() {
-			console.log('click on ' + this.innerHTML);
+		$('#map').delegate('.eventselector', 'touchstart click', function() {
+			//console.log('click on ' + this.innerHTML);
 			var layer = overlays[this.innerHTML];
 			map.fitBounds(layer.getBounds());
 			layer.addTo(map);
